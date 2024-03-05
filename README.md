@@ -1,4 +1,4 @@
-## Daiquiri: Rapid, easy full-stack web development starter kit in Go
+## Daiquiri: Rapid, easy full-stack web development framework in Go
 
 
 
